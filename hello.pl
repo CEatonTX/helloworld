@@ -8,5 +8,3 @@
 
  # Print a message.
  print "Hello, World!\n";
- print "it is two fifty two p m\n";
- print "it is two fifty two p m\n";
